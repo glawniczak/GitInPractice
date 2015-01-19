@@ -1,3 +1,6 @@
 //I have rejected this!
 Git In Practice
 //TODO Improve Joke Timing
+
+I have added chapter two!
+
